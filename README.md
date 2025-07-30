@@ -1,3 +1,6 @@
+Make sure to install npm,tailwind,eslint,shadcn,lucid react . Check package.json file if confused . 
+
+
 <<<<<<< HEAD
 Main files are app/page.tsx, app/api/questions , app/quiz , app/results 
 
